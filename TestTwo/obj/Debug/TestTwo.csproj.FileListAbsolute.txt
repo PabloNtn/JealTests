@@ -1,0 +1,14 @@
+C:\Users\pablo\Desktop\TestTwo\bin\Debug\TestTwo.exe.config
+C:\Users\pablo\Desktop\TestTwo\bin\Debug\TestTwo.exe
+C:\Users\pablo\Desktop\TestTwo\bin\Debug\TestTwo.pdb
+C:\Users\pablo\Desktop\TestTwo\obj\Debug\TestTwo.csproj.AssemblyReference.cache
+C:\Users\pablo\Desktop\TestTwo\obj\Debug\TestTwo.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\TestTwo\obj\Debug\TestTwo.exe
+C:\Users\pablo\Desktop\TestTwo\obj\Debug\TestTwo.pdb
+C:\Users\pablo\Documents\personal\jeal\TestTwo\bin\Debug\TestTwo.exe.config
+C:\Users\pablo\Documents\personal\jeal\TestTwo\bin\Debug\TestTwo.exe
+C:\Users\pablo\Documents\personal\jeal\TestTwo\bin\Debug\TestTwo.pdb
+C:\Users\pablo\Documents\personal\jeal\TestTwo\obj\Debug\TestTwo.csproj.AssemblyReference.cache
+C:\Users\pablo\Documents\personal\jeal\TestTwo\obj\Debug\TestTwo.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\personal\jeal\TestTwo\obj\Debug\TestTwo.exe
+C:\Users\pablo\Documents\personal\jeal\TestTwo\obj\Debug\TestTwo.pdb

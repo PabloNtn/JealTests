@@ -1,0 +1,7 @@
+C:\Users\pablo\Documents\personal\jeal\TestOne\bin\Debug\TestOne.exe.config
+C:\Users\pablo\Documents\personal\jeal\TestOne\bin\Debug\TestOne.exe
+C:\Users\pablo\Documents\personal\jeal\TestOne\bin\Debug\TestOne.pdb
+C:\Users\pablo\Documents\personal\jeal\TestOne\obj\Debug\TestOne.csproj.AssemblyReference.cache
+C:\Users\pablo\Documents\personal\jeal\TestOne\obj\Debug\TestOne.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\personal\jeal\TestOne\obj\Debug\TestOne.exe
+C:\Users\pablo\Documents\personal\jeal\TestOne\obj\Debug\TestOne.pdb

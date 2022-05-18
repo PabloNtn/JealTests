@@ -1,0 +1,7 @@
+C:\Users\pablo\Documents\personal\jeal\TestThree\bin\Debug\TestThree.exe.config
+C:\Users\pablo\Documents\personal\jeal\TestThree\bin\Debug\TestThree.exe
+C:\Users\pablo\Documents\personal\jeal\TestThree\bin\Debug\TestThree.pdb
+C:\Users\pablo\Documents\personal\jeal\TestThree\obj\Debug\TestThree.csproj.AssemblyReference.cache
+C:\Users\pablo\Documents\personal\jeal\TestThree\obj\Debug\TestThree.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\personal\jeal\TestThree\obj\Debug\TestThree.exe
+C:\Users\pablo\Documents\personal\jeal\TestThree\obj\Debug\TestThree.pdb
